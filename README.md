@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is D.R.D.S Dasanayaka
 ==========================================================================================================================================
 
-Softtware Engineer - Full Stack Web developer Passionate web developer specializing in creating sleek and responsive websites with cutting-edge technologies.
+Passionate full stack web developer 🚀 | Turning ideas into digital experiences | Front-end aficionado | Code crafter and problem solver | Always learning, always coding
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [dasanayakabandara81@gmail.com](mailto:dasanayakabandara81@gmail.com)
@@ -25,16 +25,16 @@ Softtware Engineer - Full Stack Web developer Passionate web developer specializ
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-stats.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="DrCodeNinja's GitHub stats" /></a>
+<a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-stats.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DrCodeNinja's GitHub stats" /></a>
 
-<a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DrCodeNinja&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DrCodeNinja&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/DrCodeNinja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrCodeNinja&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/DrCodeNinja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrCodeNinja&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/DrCodeNinja/NextJS-Blog-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=NextJS-Blog-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/DrCodeNinja/BlogApp-ReactJS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=BlogApp-ReactJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/DrCodeNinja/NextJS-Blog-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=NextJS-Blog-App&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/DrCodeNinja/BlogApp-ReactJS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=BlogApp-ReactJS&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/DrCodeNinja/TodoApp-ReactJS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=TodoApp-ReactJS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/DrCodeNinja/Simple-ReactApp-With-Redux" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=Simple-ReactApp-With-Redux&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/DrCodeNinja/TodoApp-ReactJS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=TodoApp-ReactJS&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/DrCodeNinja/Simple-ReactApp-With-Redux" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=Simple-ReactApp-With-Redux&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div>
