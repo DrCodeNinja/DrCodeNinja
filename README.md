@@ -1,5 +1,3 @@
-![](https://media.istockphoto.com/id/827959350/vector/ninja-icon.jpg?s=612x612&w=0&k=20&c=w-v4to2ToHgXuhxUnhou_gTyy4K5yduj60Z246T81L0=)
-
 ![](https://webdeveloper.ninja/img/webdeveloper.ninja_logo_white_600.png)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is D.R.D.S Dasanayaka
