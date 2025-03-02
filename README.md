@@ -1,4 +1,4 @@
-![](https://webdeveloper.ninja/img/webdeveloper.ninja_logo_white_600.png)![](https://media0.giphy.com/media/J1TD2fKNYiGbOKullh/giphy.gif?cid=6c09b9526lmdcvvoo7r2611zqa0x79p8hzxaz5ldo2sbsp1j&ep=v1_stickers_related&rid=giphy.gif&ct=s)![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zwhySGCEBxRRFYIcQgvOLOpRGqrT3d7Qng&s)
+![](https://webdeveloper.ninja/img/webdeveloper.ninja_logo_white_600.png)![](https://media0.giphy.com/media/J1TD2fKNYiGbOKullh/giphy.gif?cid=6c09b9526lmdcvvoo7r2611zqa0x79p8hzxaz5ldo2sbsp1j&ep=v1_stickers_related&rid=giphy.gif&ct=s)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is D.R.D.S Dasanayaka
 ==========================================================================================================================================
@@ -27,7 +27,7 @@ Passionate full stack web developer 🚀 | Turning ideas into digital experience
 <p align="left"> <a href="https://www.github.com/DrCodeNinja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/drcodeninja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zwhySGCEBxRRFYIcQgvOLOpRGqrT3d7Qng&s)
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-stats.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DrCodeNinja's GitHub stats" /></a>
