@@ -27,9 +27,8 @@ Passionate full stack web developer 🚀 | Turning ideas into digital experience
 <p align="left"> <a href="https://www.github.com/DrCodeNinja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/drcodeninja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-<a href="https://www.credly.com/badges/5c4fd847-6bea-4ec7-ac7d-913d5574fddb/public_url"><img src="https://drive.google.com/file/d/1Ph1ulupUUgzpFCacqh3yjwPQ-qIsCD-O/view?usp=sharing" />
+<a href="https://www.credly.com/badges/5c4fd847-6bea-4ec7-ac7d-913d5574fddb/public_url"><img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" /></a>
 
-</a>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-stats.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DrCodeNinja's GitHub stats" /></a>
