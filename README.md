@@ -28,11 +28,11 @@ Passionate full stack web developer 🚀 | Turning ideas into digital experience
 <p align="left"> <a href="https://www.github.com/DrCodeNinja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/drcodeninja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5c4fd847-6bea-4ec7-ac7d-913d5574fddb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://app.daily.dev/drcodeninja"><img src="https://drive.google.com/file/d/1vfqLkYHue1x4qzmll1q8ZDEAVNs4G7Zc/view?usp=sharing" width="356" alt="DrCodeNinja's Dev Card"/></a>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-stats.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DrCodeNinja's GitHub stats" /></a>
+<a href="https://www.credly.com/badges/5c4fd847-6bea-4ec7-ac7d-913d5574fddb/public_url"><img src="https://github-readme-stats.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DrCodeNinja's AWS Cloud Quest Badge" /></a>
 
 <a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DrCodeNinja&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
