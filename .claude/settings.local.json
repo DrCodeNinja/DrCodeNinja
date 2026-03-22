@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /e/CompanyProjects -maxdepth 2 -type f \\\\\\(-name package.json -o -name *.csproj \\\\\\))",
+      "Bash(find /e/CompanyProjects -maxdepth 2 -type f -name .github -o -name *.yml -o -name *.yaml)",
+      "Bash(grep -r 'PackageReference Include' /e/CompanyProjects --include=*.csproj)",
+      "Bash(find /e/CompanyProjects/BankGrid/BankGrid -maxdepth 2 -type f -name *.csproj)",
+      "Bash(grep -h 'PackageReference Include' /e/CompanyProjects/CBS-MService/PaymentService/*.csproj)",
+      "Bash(grep -rh 'PackageReference Include' /e/CompanyProjects/CEFT/*.csproj)",
+      "Bash(find /e/DPeducation -name *.py -type f)",
+      "Bash(find /e/DPeducation -name *.js -type f)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -name *.html)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -name *.css)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -name *.ts)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -name *.jsx -o -name *.tsx)",
+      "Bash(find /e/DPeducation -type f -name *.json -not -path */node_modules/*)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -name *.xml)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -name *.json -not -path */.angular/*)",
+      "Bash(file /e/DPeducation/Myworks/DevelopmentCourse3/NodeJS_Express/*)",
+      "Bash(find /e/CompanyProjects/CopyBillPayment -maxdepth 3 -type f -name *.csproj)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -name *.md)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -name *.js -not -path */.angular/*)",
+      "Bash(xargs wc:*)",
+      "Bash(grep -r name: /e/DPeducation/Myworks/*/package.json)",
+      "Bash(grep -r import.*from /e/DPeducation/Myworks/Angular/Smart_Grocery/src/app/*.ts)",
+      "Bash(find /e/DPeducation -type f -not -path */node_modules/* -not -path */.angular/* -not -path */.git/*)",
+      "Bash(find /e/DPeducation/Myworks -maxdepth 3 -type d -not -path */node_modules/*)"
+    ]
+  }
+}
