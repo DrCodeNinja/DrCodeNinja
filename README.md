@@ -163,6 +163,13 @@ Front-end aficionado who's always learning, always coding.
 
 ---
 
+### ⏱️ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📌 Top Repositories
 
 <div align="center">
