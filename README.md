@@ -36,7 +36,7 @@ Passionate full stack web developer 🚀 | Turning ideas into digital experience
 
 <a href="https://www.credly.com/badges/5c4fd847-6bea-4ec7-ac7d-913d5574fddb/public_url"><img src="https://github-readme-stats-seven-henna-92.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DrCodeNinja's AWS Cloud Quest Badge" /></a>
 
-<a href="http://www.github.com/DrCodeNinja"><img src="https://github-readme-stats-seven-henna-92.vercel.app/?user=DrCodeNinja&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DrCodeNinja"><img src="https://streak-stats.demolab.com/?user=DrCodeNinja&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/DrCodeNinja" align="left"><img src="https://github-readme-stats-seven-henna-92.vercel.app/api/top-langs/?username=DrCodeNinja&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
