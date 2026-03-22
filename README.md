@@ -47,3 +47,6 @@ Passionate full stack web developer 🚀 | Turning ideas into digital experience
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/DrCodeNinja/TodoApp-ReactJS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=TodoApp-ReactJS&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/DrCodeNinja/Simple-ReactApp-With-Redux" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=Simple-ReactApp-With-Redux&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div>
+
+<img src="https://raw.githubusercontent.com/drcodeninja/drcodeninja/output/snake.svg" alt="Snake animation" />
+
