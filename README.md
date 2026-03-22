@@ -34,7 +34,7 @@ From .NET backends and gRPC services to React frontends and mobile apps — I sh
 
 - 🌍 Based in **Sri Lanka**
 - 🏢 Building enterprise-grade apps with **.NET, Next.js & microservices architecture**
-- 🔭 Currently working on **scalable SaaS platforms** with Clean Architecture & Docker
+- 🔭 Currently working on **scalable SaaS platforms** with Clean Architecture & Cloud Services
 - 🧠 Exploring **AI/ML integrations, gRPC services & cloud-native patterns**
 - 🤝 Open to collaborating on **full stack & open source projects**
 
@@ -50,12 +50,7 @@ From .NET backends and gRPC services to React frontends and mobile apps — I sh
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></a>
-<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
 </details>
 
 <details open>
@@ -120,11 +115,9 @@ From .NET backends and gRPC services to React frontends and mobile apps — I sh
 <summary><b>Tools & Build</b></summary>
 <br />
 <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
-<a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" /></a>
 <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" /></a>
 <a href="https://serilog.net/"><img src="https://img.shields.io/badge/Serilog-%23E6522C.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="Serilog" /></a>
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-<a href="https://metamask.io/"><img src="https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask" /></a>
 </details>
 
 ---
