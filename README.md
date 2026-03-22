@@ -4,11 +4,11 @@
 
 # Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm D.R.D.S Dasanayaka
 
-### 🚀 Full Stack Software Engineer | Code Crafter | Problem Solver
+### 🚀 Full Stack Software Engineer | Microservices Architect | Cloud Enthusiast
 
 <p>
-Turning ideas into digital experiences — one line of code at a time.<br/>
-Front-end aficionado who's always learning, always coding.
+Building scalable enterprise solutions from microservices to pixel-perfect UIs.<br/>
+From .NET backends and gRPC services to React frontends and mobile apps — I ship across the entire stack.
 </p>
 
 <a href="https://my-protfolio-smoky.vercel.app/">
@@ -33,9 +33,10 @@ Front-end aficionado who's always learning, always coding.
 ### 🧑‍💻 About Me
 
 - 🌍 Based in **Sri Lanka**
-- 🔭 Currently working on **[NextJS-Blog-App](https://github.com/DrCodeNinja/NextJS-Blog-App)**
-- 🧠 Learning **Next.js, React, Node.js, MySQL** and more
-- 🤝 Open to collaborating on **React Applications**
+- 🏢 Building enterprise-grade apps with **.NET, Next.js & microservices architecture**
+- 🔭 Currently working on **scalable SaaS platforms** with Clean Architecture & Docker
+- 🧠 Exploring **AI/ML integrations, gRPC services & cloud-native patterns**
+- 🤝 Open to collaborating on **full stack & open source projects**
 
 <br clear="right" />
 
