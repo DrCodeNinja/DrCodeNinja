@@ -1,52 +1,154 @@
-![](https://webdeveloper.ninja/img/webdeveloper.ninja_logo_white_600.png)![](https://media0.giphy.com/media/J1TD2fKNYiGbOKullh/giphy.gif?cid=6c09b9526lmdcvvoo7r2611zqa0x79p8hzxaz5ldo2sbsp1j&ep=v1_stickers_related&rid=giphy.gif&ct=s)
+<div align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is D.R.D.S Dasanayaka
-==========================================================================================================================================
+![Header](https://webdeveloper.ninja/img/webdeveloper.ninja_logo_white_600.png)
 
-Passionate full stack web developer 🚀 | Turning ideas into digital experiences | Front-end aficionado | Code crafter and problem solver | Always learning, always coding
+# Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm D.R.D.S Dasanayaka
 
-* 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [dasanayakabandara81@gmail.com](mailto:dasanayakabandara81@gmail.com)
-* 🚀  I'm currently working on [NextJS-Blog-App](http://github.com/DrCodeNinja/NextJS-Blog-App)
-* 🧠  I'm learning NextJS, ReactJS, JavaScript, NodeJS, MySQL etc..
-* 🤝  I'm open to collaborating on Others React Applications
+### 🚀 Full Stack Web Developer | Code Crafter | Problem Solver
 
-## My Portfolio
-🚀 https://my-protfolio-smoky.vercel.app/
-
-### Skills
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<a href="https://app.daily.dev/dasundasanayaka"><img src="https://api.daily.dev/devcards/v2/9tTtnymWUpaKbuOZwZAHL.png?type=wide&r=g7p" width="652" alt="Dasun Dasanayaka's Dev Card"/></a>
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<p>
+Turning ideas into digital experiences — one line of code at a time.<br/>
+Front-end aficionado who's always learning, always coding.
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/DrCodeNinja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/drcodeninja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-<a href="https://www.credly.com/badges/5c4fd847-6bea-4ec7-ac7d-913d5574fddb/public_url">
-  <img src="https://drive.google.com/uc?export=view&id=1vfqLkYHue1x4qzmll1q8ZDEAVNs4G7Zc" width="356" alt="DrCodeNinja's Dev Card"/>
+<a href="https://my-protfolio-smoky.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=10b981" alt="Portfolio" />
+</a>
+<a href="mailto:dasanayakabandara81@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/drcodeninja">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.github.com/DrCodeNinja">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="https://www.credly.com/badges/5c4fd847-6bea-4ec7-ac7d-913d5574fddb/public_url"><img src="https://github-readme-stats-seven-henna-92.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="DrCodeNinja's AWS Cloud Quest Badge" /></a>
+---
 
-<a href="http://www.github.com/DrCodeNinja"><img src="https://streak-stats.demolab.com/?user=DrCodeNinja&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img align="right" src="https://media0.giphy.com/media/J1TD2fKNYiGbOKullh/giphy.gif?cid=6c09b9526lmdcvvoo7r2611zqa0x79p8hzxaz5ldo2sbsp1j&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="150" />
 
-<a href="https://github.com/DrCodeNinja" align="left"><img src="https://github-readme-stats-seven-henna-92.vercel.app/api/top-langs/?username=DrCodeNinja&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🧑‍💻 About Me
 
-<b>Top Repositories</b>
+- 🌍 Based in **Sri Lanka**
+- 🔭 Currently working on **[NextJS-Blog-App](https://github.com/DrCodeNinja/NextJS-Blog-App)**
+- 🧠 Learning **Next.js, React, Node.js, MySQL** and more
+- 🤝 Open to collaborating on **React Applications**
 
-<div width="100%" align="center"><a href="https://github.com/DrCodeNinja/NextJS-Blog-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=NextJS-Blog-App&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/DrCodeNinja/BlogApp-ReactJS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=BlogApp-ReactJS&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br clear="right" />
 
-<br /><br /><br /><br /><br />
+---
 
-<div width="100%" align="center"><a href="https://github.com/DrCodeNinja/TodoApp-ReactJS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=TodoApp-ReactJS&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/DrCodeNinja/Simple-ReactApp-With-Redux" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=Simple-ReactApp-With-Redux&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" /></a></div>
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br />
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
+<a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" /></a>
+<a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+<a href="https://mui.com/"><img src="https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /></a>
+<a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra%20UI-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /></a>
+<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br />
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+</details>
+
+<details open>
+<summary><b>Tools & Platforms</b></summary>
+<br />
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+<a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" /></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+<a href="https://metamask.io/"><img src="https://img.shields.io/badge/MetaMask-%23F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask" /></a>
+</details>
+
+---
+
+### 🏆 Badges & Certifications
+
+<div align="center">
+<a href="https://www.credly.com/badges/5c4fd847-6bea-4ec7-ac7d-913d5574fddb/public_url">
+  <img src="https://drive.google.com/uc?export=view&id=1vfqLkYHue1x4qzmll1q8ZDEAVNs4G7Zc" width="200" alt="AWS Cloud Quest Badge"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://app.daily.dev/dasundasanayaka">
+  <img src="https://api.daily.dev/devcards/v2/9tTtnymWUpaKbuOZwZAHL.png?type=wide&r=g7p" width="400" alt="Dasun Dasanayaka's Dev Card"/>
+</a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-seven-henna-92.vercel.app/api?username=DrCodeNinja&show_icons=true&hide=stars,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=DrCodeNinja&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+
+<img width="40%" src="https://github-readme-stats-seven-henna-92.vercel.app/api/top-langs/?username=DrCodeNinja&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+### 📌 Top Repositories
+
+<div align="center">
+
+<a href="https://github.com/DrCodeNinja/NextJS-Blog-App">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=NextJS-Blog-App&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" alt="NextJS-Blog-App" />
+</a>
+<a href="https://github.com/DrCodeNinja/BlogApp-ReactJS">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=BlogApp-ReactJS&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" alt="BlogApp-ReactJS" />
+</a>
+
+<a href="https://github.com/DrCodeNinja/TodoApp-ReactJS">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=TodoApp-ReactJS&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" alt="TodoApp-ReactJS" />
+</a>
+<a href="https://github.com/DrCodeNinja/Simple-ReactApp-With-Redux">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DrCodeNinja&repo=Simple-ReactApp-With-Redux&title_color=10b981&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en" alt="Simple-ReactApp-With-Redux" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/drcodeninja/drcodeninja/output/snake.svg" alt="Snake animation" />
 
+<br /><br />
+
+<img src="https://img.shields.io/github/followers/DrCodeNinja?style=social" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=DrCodeNinja&color=10b981&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
