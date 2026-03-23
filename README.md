@@ -164,11 +164,11 @@ From .NET backends and gRPC services to React frontends and mobile apps — I sh
 ```txt
 From: 15 March 2026 - To: 22 March 2026
 
-Other        1 hr 43 mins          ██████████████▒░░░░░░░░░░   57.70 %
-JavaScript   32 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-Markdown     20 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Git Config   14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-INI          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Other        1 hr 43 mins          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱   57.70 %
+JavaScript   32 mins               ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.87 %
+Markdown     20 mins               ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.40 %
+Git Config   14 mins               ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.95 %
+INI          4 mins                ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.77 %
 ```
 
 <!--END_SECTION:waka-->
