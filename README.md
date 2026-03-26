@@ -129,7 +129,7 @@ From .NET backends and gRPC services to React frontends and mobile apps — I sh
   <img src="https://drive.google.com/uc?export=view&id=1vfqLkYHue1x4qzmll1q8ZDEAVNs4G7Zc" width="200" alt="AWS Cloud Quest Badge"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://app.daily.dev/dasundasanayaka">
+<a href="https://app.daily.dev/mrdrcodeninja">
   <img src="https://api.daily.dev/devcards/v2/9tTtnymWUpaKbuOZwZAHL.png?type=wide&r=g7p" width="400" alt="Dasun Dasanayaka's Dev Card"/>
 </a>
 </div>
