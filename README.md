@@ -17,7 +17,7 @@ From .NET backends and gRPC services to React frontends and mobile apps — I sh
 <a href="mailto:dasanayakabandara81@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.linkedin.com/in/drcodeninja" target="_blank">
+<a href="https://www.linkedin.com/in/drcodeninja" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.github.com/DrCodeNinja">
