@@ -162,16 +162,16 @@ From .NET backends and gRPC services to React frontends and mobile apps — I sh
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2026 - To: 20 May 2026
+From: 14 May 2026 - To: 21 May 2026
 
-TypeScript                         17 hrs 21 mins        ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   32.13 %
-Other                              14 hrs 19 mins        ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   26.51 %
-Markdown                           7 hrs 46 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.40 %
-C#                                 5 hrs 48 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.74 %
-JavaScript                         2 hrs 26 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.51 %
-JSON                               2 hrs 22 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.40 %
-SQL                                2 hrs 11 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.06 %
-Bash                               56 mins               ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.75 %
+TypeScript                         15 hrs 47 mins        ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.35 %
+Other                              13 hrs 19 mins        ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   25.59 %
+C#                                 8 hrs 10 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.72 %
+Markdown                           6 hrs 49 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.13 %
+JSON                               2 hrs 28 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.75 %
+SQL                                2 hrs 3 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.95 %
+JavaScript                         1 hr 47 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.45 %
+Bash                               56 mins               ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.82 %
 ```
 
 <!--END_SECTION:waka-->
