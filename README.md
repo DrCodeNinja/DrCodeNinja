@@ -162,10 +162,10 @@ From .NET backends and gRPC services to React frontends and mobile apps — I sh
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2026 - To: 01 September 2026
+From: 26 August 2026 - To: 02 September 2026
 
-Other      9 hrs 36 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   89.45 %
-Markdown   1 hr 7 mins           ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.55 %
+Other      13 hrs 39 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱   92.28 %
+Markdown   1 hr 8 mins           ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.72 %
 ```
 
 <!--END_SECTION:waka-->
